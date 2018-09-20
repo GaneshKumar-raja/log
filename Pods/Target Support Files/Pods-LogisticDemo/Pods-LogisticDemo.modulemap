@@ -1,0 +1,6 @@
+module Pods_LogisticDemo {
+  umbrella header "Pods-LogisticDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
